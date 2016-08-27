@@ -1,4 +1,3 @@
-layout_spectrum: 0.04162452812306583
 typography_spectrum: 0.4562957037705928
 color:
   brandStrength: 0.8042117841541767
@@ -6,9 +5,11 @@ color:
   saturation: 0.13573365891352296
   rhythmicContrast: 0.38692403212189674
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
+layout_spectrum: 0.04162452812306583
 name: Life Worth Living
+title: Experience
